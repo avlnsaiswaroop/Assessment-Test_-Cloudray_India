@@ -12,6 +12,6 @@ This project is a TypeScript script for analyzing heart rate data from a JSON fi
 
 ```bash
 
-```
-
 git clone https://github.com/avlnsaiswaroop/Assessment-Test_-Cloudray_India.git
+
+```
