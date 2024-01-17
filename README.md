@@ -5,6 +5,7 @@ This project is a TypeScript script for analyzing heart rate data from a JSON fi
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your system.
+- npm install moment to install moment librairies.
 
 ## Getting Started
 
